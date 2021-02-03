@@ -1,0 +1,118 @@
+.header{
+height:130px;
+width:100%;
+background-color:darkcyan;
+font-family:bell MT;
+font-size:45px;
+color:white;
+text-align:center;
+padding-top:5px;
+word-spacing:45px;
+}
+
+#margin{
+color:darkcyan;
+font-family:lucidia handwriting;
+font-size:20px;
+padding-left:120px;
+text-decoration:none;
+}
+
+#margin:hover{
+color:midnightblue;
+font-family:bell MT;
+font-size:22px;
+text-decoration:underline;
+}
+.list{
+list-style-type:none;
+text-decoration:none;
+}
+
+.llist{
+list-style-type:none;
+font-family:bell MT;
+font-size:20px;
+text-decoration:none;
+line-height:24px;
+}
+
+.llist:hover{
+font-family:bell MT;
+font-size:22px;
+text-decoration:underline;
+background-color:midnightblue;
+}
+
+#admin{
+color:white;
+font-family:bell MT;
+font-size:20px;
+padding-top:10px;
+padding-left:40px;
+background-color:dodgerblue;
+text-decoration:none;
+}
+#admin:hover{
+font-size:22px;
+background-color:midnightblue;
+text-decoration:underline;
+}
+
+#login{
+line-height:30px;
+}
+
+#button{
+margin-left:30px;
+padding-top:20px;
+}
+/* =======ImageSlider========*/
+#slidebox{
+height:350px;
+background:darkcyan;
+}
+.mySlides {display:none}
+
+.slideshow-container {
+  max-width: 700px;
+  position: relative;
+  margin: auto;
+}
+
+.textslide{
+font-family:bell MT;
+color:white;
+font-size:20px;
+}
+
+.footer{
+background-color:darkcyan;
+height:60px;
+width:;10px;
+border-color:black;
+border-width:3px;
+border-style:solid;
+}
+
+#footerf{
+color:white;
+font-family:bell MTs;
+font-size:22px;
+padding-left:140px;
+padding-top:20px;
+text-decoration:none;
+}
+
+#footerf:hover{
+font-size:24px;
+text-decoration:underline;
+}
+.tableimage{
+margin-left:550px;
+}
+.copy{
+font-family:bell MT;
+padding-left:450px;
+font-size:20px;
+}
